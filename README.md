@@ -1,6 +1,7 @@
 # Hello, I'm Pedro Moura 😄👋 #
 
 Computer Science student at [CIn UFPE](https://portal.cin.ufpe.br/ "CIn UFPE") and Web Development enthusiast.
+I'm currently a developer at CIn/UFPE. 
 
 ## What are my interests 📚 ##
 
