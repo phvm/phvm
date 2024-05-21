@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Moura</h1>
 <h3 align="center">A passionate fullstack developer and computer science student</h3>
 
-- 🌱 I’m currently learning **Tailwind, Svelte, Nest and databases**
+- 🌱 I’m currently learning **Tailwind, Nextjs and databases**
 
 - 💬 Ask me about **React, vue, node and typescript**
 
