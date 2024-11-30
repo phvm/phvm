@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Moura</h1>
-<h3 align="center">A passionate fullstack developer and computer science student</h3>
+<h3 align="center">A passionate fullstack developer (but I prefer front-end mind you) and computer science student</h3>
 
-- 🌱 I’m currently learning **Tailwind, Nextjs and databases**
+- 🌱 I’m currently learning **Nuxt and databases**
 
-- 💬 Ask me about **React, vue, node and typescript**
+- 💬 Ask me about **React, vue, tailwindcss and typescript**
 
 - 📫 How to reach me **pedrohvdm@gmail.com**
 
